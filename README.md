@@ -1,9 +1,9 @@
 # 💫 About Me:
-🚀 I’m currently working on leveling up my coding skills.<br>  
+🚀 Currently leveling up my coding skills… because apparently, “turn it off and on again” isn’t a valid career path. <br>  
 🤝 I’m looking to collaborate on fresh, new projects and help as a backend developer.<br>  
-📚 I’m currently learning **Python** 🐍 (Flask, FastAPI, Pandas) and **JavaScript** ⚡ (Node.js, Express).<br>  
-💡 Ask me about code-related stuff or even about your craziest dreams.<br>  
-🎲 Fun fact: I once transitioned from engineering into IT, and now I see code as my new building blocks!  
+📚 Learning Python 🐍 (Flask, FastAPI, Pandas) and JavaScript ⚡ (Node.js, Express)—basically teaching computers to do my chores. <br>  
+💡 Ask me about code, crazy dreams, or how many semicolons it takes to make a bug disappear (spoiler: it’s never just one). <br>  
+🎲 Fun fact: I once went from mining rocks to mining data, and now I build with code instead of concrete. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vasilis-kokotakis/) 
