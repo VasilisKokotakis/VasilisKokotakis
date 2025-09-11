@@ -3,7 +3,7 @@
 🤝 I’m looking to collaborate on fresh, new projects and help as a backend developer.<br>  
 📚 I’m currently learning **Python** 🐍 (Flask, FastAPI, Pandas) and **JavaScript** ⚡ (Node.js, Express).<br>  
 💡 Ask me about code-related stuff or even about your craziest dreams.<br>  
-🎲 Fun fact: I once transitioned from engineering into IT, and now I see code as my new building blocks.  
+🎲 Fun fact: I once transitioned from engineering into IT, and now I see code as my new building blocks!  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vasilis-kokotakis/) 
