@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 Currently leveling up my coding skills… because apparently, “turn it off and on again” isn’t a valid career path.<br>  
-🤝 I’m looking to collaborate on fresh, new projects and help as a backend developer.<br>  
-📚 Learning Python 🐍 (Flask, FastAPI, Pandas) and JavaScript ⚡ (Node.js, Express)—basically teaching computers to do my chores.<br>  
+🚀 Currently leveling up my coding skills… because apparently, “turn it off and on again” isn’t a valid career path.<br>
+🤝 I’m looking to collaborate on fresh, new projects and help as a backend developer.<br>
+📚 Learning Python 🐍 (Flask, FastAPI, Pandas) and JavaScript ⚡ (Node.js, Express), basically teaching computers to do my chores.<br>
 💡 Ask me about code, crazy dreams, or how many semicolons it takes to make a bug disappear (spoiler: it’s never just one).<br>
 🛠️ Here you’ll also find my small and simple projects that helped me complete my boring tasks.<br>
 🎲 Fun fact: I once went from mining rocks to mining data, and now I build with code instead of concrete. 
