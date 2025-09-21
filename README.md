@@ -24,7 +24,6 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 💡 Ask me about code, crazy dreams, or how many semicolons it takes to make a bug disappear (spoiler: it’s never just one).<br>
 🛠️ Here you’ll also find my small and simple projects that helped me complete my boring tasks.<br>
 
-</Click Here For More>
 
 [![](https://visitcount.itsvg.in/api?id=VasilisKokotakis&icon=0&color=0)](https://visitcount.itsvg.in)
 
