@@ -30,6 +30,3 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 
 </details>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=VasilisKokotakis&icon=0&color=0)](https://visitcount.itsvg.in)
