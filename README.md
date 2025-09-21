@@ -16,7 +16,11 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilisKokotakis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<Click Here For More>
+
+[![](https://visitcount.itsvg.in/api?id=VasilisKokotakis&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<details>
+<summary>More about me & my journey 📖</summary>
 
 🚀 Currently leveling up my coding skills… because apparently, “turn it off and on again” isn’t a valid career path.<br>
 🤝 I’m looking to collaborate on fresh, new projects and help as a backend developer.<br>
@@ -24,7 +28,4 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 💡 Ask me about code, crazy dreams, or how many semicolons it takes to make a bug disappear (spoiler: it’s never just one).<br>
 🛠️ Here you’ll also find my small and simple projects that helped me complete my boring tasks.<br>
 
-
-[![](https://visitcount.itsvg.in/api?id=VasilisKokotakis&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+</details>
