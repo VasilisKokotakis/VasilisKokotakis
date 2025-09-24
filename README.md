@@ -4,7 +4,7 @@ I turn ideas into code and code into solutions, building projects from scratch w
 Curious, playful, and a little stubborn, I love automating the boring, experimenting with the new, and collaborating on challenges that make both computers and me think.<br>
 I’m always learning, always tinkering, and occasionally talking to my code like it owes me money.<br>
 <br>
-🎲 Fun fact: I went from mining rocks to mining data —> now I craft with code instead of concrete.
+🎲 Fun fact: I went from mining rocks to mining data ➜ now I craft with code instead of concrete.
 
   
 # 💻 Tech Stack:
