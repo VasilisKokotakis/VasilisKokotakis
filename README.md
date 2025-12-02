@@ -36,14 +36,6 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
----
-
-<img align="right" alt="coding gif" width="280" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# 🧠 Typing Intro
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=40C463&lines=Hello+I'm+Vasileios;Backend+Developer;API+Integration+Engineer;Python+%2B+JS+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
-
----
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=VasilisKokotakis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
