@@ -1,5 +1,5 @@
 <!-- HEADER WAVES -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:28e6f4,100:4363ff&height=200&section=header&text=Vasileios%20Kokotakis&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:28e6f4,100:4363ff&height=200&section=header&text=Welcome%2C%20Human.%20The%20Code%20Awaits.&fontSize=40&fontColor=ffffff)
 
 # Backend Developer & Occasional Overthinker  
 I turn ideas into code and code into solutions, building projects from scratch with Python and JavaScript.  
