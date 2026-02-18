@@ -7,7 +7,7 @@
 
 ---
 
-# 👋 Backend Developer & Occasional Overthinker  
+# 👋 Software Developer & Occasional Overthinker  
 
 I turn ideas into code and code into solutions, building projects from scratch with **Python** and **JavaScript**.  
 
@@ -54,11 +54,8 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VasilisKokotakis&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VasilisKokotakis&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilisKokotakis&theme=dark&hide_border=false&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VasilisKokotakis&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilisKokotakis&theme=dark&layout=compact&cache_seconds=1800" />
 </p>
 
 ---
@@ -71,9 +68,9 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 
 # 🚀 Rapid Fire
 
-- 💼 Currently working as an **API Integration Developer**
-- 🌱 Leveling up in **backend architecture & system design**
-- 🔌 Strong focus on APIs, authentication, and service integrations
+- 💼 Currently working as an **Software Developer**
+- 🌱 Leveling up in backend architecture & system design
+- 🔌 Strong focus on APIs, authentication & service integrations
 - 🤝 Open to collaborating on backend-heavy projects
 - ⚡ Fun fact: Sometimes I debug faster after coffee. Sometimes I just drink more coffee.
 
