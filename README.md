@@ -16,7 +16,7 @@ Curious, playful, and a little stubborn, I love:
 - 🧪 Experimenting with the new  
 - 🤝 Collaborating on challenges that make both computers *and me* think  
 
-I’m always learning, always tinkering, and occasionally talking to my code like it owes me money.  
+I'm always learning, always tinkering, and occasionally talking to my code like it owes me money.  
 
 > **Fun fact:** I went from mining rocks to mining data ➜ now I craft with code instead of concrete.
 
@@ -54,8 +54,20 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VasilisKokotakis&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilisKokotakis&theme=dark&layout=compact&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasilisKokotakis&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VasilisKokotakis&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VasilisKokotakis&theme=github_dark" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VasilisKokotakis&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +80,7 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 
 # 🚀 Rapid Fire
 
-- 💼 Currently working as an **Software Developer**
+- 💼 Currently working as a **Software Developer**
 - 🌱 Leveling up in backend architecture & system design
 - 🔌 Strong focus on APIs, authentication & service integrations
 - 🤝 Open to collaborating on backend-heavy projects
@@ -81,7 +93,7 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 <details>
 <summary>Click to expand</summary>
 
-🚀 Currently leveling up my coding skills… because apparently, “turn it off and on again” isn’t a valid career path.  
+🚀 Currently leveling up my coding skills… because apparently, "turn it off and on again" isn't a valid career path.  
 
 📚 Learning more about:
 - Backend architecture  
@@ -94,7 +106,7 @@ I’m always learning, always tinkering, and occasionally talking to my code lik
 - Automating repetitive tasks  
 - Or how many semicolons it takes to fix a bug (spoiler: it's never just one).  
 
-🛠️ You’ll also find small and simple projects here that helped me automate parts of my daily life.
+🛠️ You'll also find small and simple projects here that helped me automate parts of my daily life.
 
 </details>
 
