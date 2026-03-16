@@ -84,7 +84,7 @@ Before code, I worked in mining and construction. That background taught me to t
 
 <br>
 
-I went from mining rocks to mining data — now I craft with code instead of concrete.
+I went from mining rocks to mining data - now I craft with code instead of concrete.
 
 My path into software wasn't the traditional one. I came from an industry where things are heavy, slow, and very physical. That contrast is exactly what drew me to programming: the ability to build fast, iterate faster, and ship something that exists purely as an idea made real.
 
