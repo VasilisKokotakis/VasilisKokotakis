@@ -52,7 +52,6 @@ Before code, I worked in mining and construction. That background taught me to t
 - **APIs & Integrations** - designing resilient service connectors, rate-limit handling, retry strategies
 - **Backend Architecture** - clean patterns, system design, and making things scale
 - **Automation** - if I do it twice, I write a script; if I do it three times, I write a good one
-- **Always learning** - currently going deeper on system design and performance optimization
 
 ---
 
