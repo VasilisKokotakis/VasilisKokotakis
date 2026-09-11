@@ -37,8 +37,21 @@ class Vasilis(SoftwareEngineer):
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,docker,linux&theme=dark" alt="Backend stack" /><br />
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,blender&theme=dark" alt="Frontend and 3D stack" /><br />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,blender,figma,xd&theme=dark" alt="Frontend, 3D and design" /><br />
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode&theme=dark" alt="Tooling" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-161b22?style=flat-square&logo=claude&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude_Code-161b22?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=E70488" alt="Pandas" />
+  <img src="https://img.shields.io/badge/YAML-161b22?style=flat-square&logo=yaml&logoColor=CB171E" alt="YAML" />
+  <img src="https://img.shields.io/badge/Bruno-161b22?style=flat-square&logo=bruno&logoColor=F4AA41" alt="Bruno" />
+  <img src="https://img.shields.io/badge/Jira-161b22?style=flat-square&logo=jira&logoColor=2684FF" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-161b22?style=flat-square&logo=confluence&logoColor=2684FF" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Miro-161b22?style=flat-square&logo=miro&logoColor=FFD02F" alt="Miro" />
+  <img src="https://img.shields.io/badge/Canva-161b22?style=flat-square" alt="Canva" />
 </p>
 
 ## `$ cd ~/aeromine`
