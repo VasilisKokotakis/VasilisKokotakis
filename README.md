@@ -21,11 +21,11 @@
 
 ```python
 class Vasilis(SoftwareEngineer):
-    from_      = "Greece 🇬🇷"
-    based_in   = "Poland 🇵🇱"
-    past_life  = "Mining & construction engineer ⛏️"
+    from_      = "Greece"
+    based_in   = "Poland"
+    past_life  = "Mining & construction engineer"
     day_job    = "Backend systems & SaaS integrations"
-    side_quest = "AEROMINE: drones, point clouds & 3D digital twins 🛰️"
+    side_quest = "AEROMINE: drones, point clouds & 3D digital twins"
     stack      = ["Python", "FastAPI", "PostgreSQL", "Docker", "React", "Three.js"]
     motto      = "If I do it twice, I script it. Three times, I script it well."
 
@@ -65,14 +65,14 @@ class Vasilis(SoftwareEngineer):
 
 <table>
   <tr>
-    <td width="33%" align="center"><a href="https://aeromine-3d-open-pit.vercel.app"><img src="assets/aeromine/open-pit.jpg" alt="Open pit mine 3D map" /></a><br /><sub><b>⛏️ Open Pit</b> · stockpile map</sub></td>
-    <td width="33%" align="center"><a href="https://aeromine-3d-wind-turbines.vercel.app"><img src="assets/aeromine/wind-farm.jpg" alt="Wind farm 3D map" /></a><br /><sub><b>🌀 Wind Farm</b> · turbine & blade condition</sub></td>
-    <td width="33%" align="center"><a href="https://aeromine-3d-real-estate.vercel.app"><img src="assets/aeromine/real-estate.jpg" alt="Real estate 3D viewer" /></a><br /><sub><b>🏢 Real Estate</b> · floor-by-floor viewer</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3d-open-pit.vercel.app"><img src="assets/aeromine/open-pit.jpg" alt="Open pit mine 3D map" /></a><br /><sub><b>Open Pit</b> · stockpile map</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3d-wind-turbines.vercel.app"><img src="assets/aeromine/wind-farm.jpg" alt="Wind farm 3D map" /></a><br /><sub><b>Wind Farm</b> · turbine & blade condition</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3d-real-estate.vercel.app"><img src="assets/aeromine/real-estate.jpg" alt="Real estate 3D viewer" /></a><br /><sub><b>Real Estate</b> · floor-by-floor viewer</sub></td>
   </tr>
   <tr>
-    <td width="33%" align="center"><a href="https://aeromine-3-d-olive-trees-farm.vercel.app"><img src="assets/aeromine/olive-farm.jpg" alt="Olive farm 3D map" /></a><br /><sub><b>🫒 Olive Farm</b> · grove & materials map</sub></td>
-    <td width="33%" align="center"><a href="https://aeromine-3d-mall-map.vercel.app"><img src="assets/aeromine/mall.jpg" alt="Mall 3D map" /></a><br /><sub><b>🛍️ Mall Map</b> · phased store directory</sub></td>
-    <td width="33%" align="center"><a href="https://aeromine-3d-open-office.vercel.app"><img src="assets/aeromine/open-office.jpg" alt="Open office 3D safety map" /></a><br /><sub><b>🧯 Open Office</b> · fire-safety map</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3-d-olive-trees-farm.vercel.app"><img src="assets/aeromine/olive-farm.jpg" alt="Olive farm 3D map" /></a><br /><sub><b>Olive Farm</b> · grove & materials map</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3d-mall-map.vercel.app"><img src="assets/aeromine/mall.jpg" alt="Mall 3D map" /></a><br /><sub><b>Mall Map</b> · phased store directory</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3d-open-office.vercel.app"><img src="assets/aeromine/open-office.jpg" alt="Open office 3D safety map" /></a><br /><sub><b>Open Office</b> · fire-safety map</sub></td>
   </tr>
 </table>
 
@@ -83,17 +83,17 @@ class Vasilis(SoftwareEngineer):
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🛰️ <a href="https://github.com/VasilisKokotakis/AEROMINE-TRENCH-TOOL-V2">AEROMINE Trench Tool</a></h3>
+      <h3><a href="https://github.com/VasilisKokotakis/AEROMINE-TRENCH-TOOL-V2">AEROMINE Trench Tool</a></h3>
       3D trench point-cloud analysis: cross-sections, wall distance and depth reports straight from LAS/LAZ files.<br /><br />
       <code>Python</code> <code>point clouds</code> <code>LAS/LAZ</code>
     </td>
     <td width="33%" valign="top">
-      <h3>🛡️ <a href="https://github.com/VasilisKokotakis/backup-monitor-api">backup-monitor-api</a></h3>
+      <h3><a href="https://github.com/VasilisKokotakis/backup-monitor-api">backup-monitor-api</a></h3>
       REST API that tracks SaaS backup job statuses across multiple clients.<br /><br />
       <code>FastAPI</code> <code>PostgreSQL</code> <code>JWT</code> <code>Docker</code>
     </td>
     <td width="33%" valign="top">
-      <h3>🧊 <a href="https://github.com/VasilisKokotakis/model-viewer">model-viewer</a></h3>
+      <h3><a href="https://github.com/VasilisKokotakis/model-viewer">model-viewer</a></h3>
       Interactive 3D viewer for GLTF/GLB models, running in the browser.<br /><br />
       <code>React</code> <code>Three.js</code> <code>R3F</code>
     </td>
@@ -115,7 +115,7 @@ class Vasilis(SoftwareEngineer):
 ## `$ open mineral.stl`
 
 <details>
-<summary><b>🪨 Click to spin a 3D mineral</b> (drag to rotate, scroll to zoom, generated in Python)</summary>
+<summary><b>Click to spin a 3D mineral</b> (drag to rotate, scroll to zoom, generated in Python)</summary>
 
 <!-- STL:START -->
 ```stl
@@ -1191,7 +1191,7 @@ endsolid mineral
 </details>
 
 <details>
-<summary><b>📖 A bit more about me</b></summary>
+<summary><b>A bit more about me</b></summary>
 
 <br />
 

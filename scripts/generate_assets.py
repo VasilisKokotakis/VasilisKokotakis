@@ -154,7 +154,7 @@ def header_svg():
   <g class="fade d1"><text x="58" y="78" class="mono" font-size="15" fill="#7d8590"><tspan fill="#28e6f4">~/vasilis</tspan> $ whoami<tspan class="cursor" fill="#28e6f4"> ▍</tspan></text></g>
   <g class="fade d2"><text x="56" y="136" class="sans" font-size="48" font-weight="800" fill="#f0f6fc" letter-spacing="-1">Vasilis Kokotakis</text></g>
   <g class="fade d3"><text x="58" y="176" class="sans" font-size="21" font-weight="600" fill="url(#brand)">Software Engineer · Python · FastAPI · 3D</text></g>
-  <g class="fade d4"><text x="58" y="214" class="mono" font-size="15" fill="#7d8590">// from rocks ⛏  to repos &lt;/&gt;</text></g>
+  <g class="fade d4"><text x="58" y="214" class="mono" font-size="15" fill="#7d8590">// from rocks to repos &lt;/&gt;</text></g>
   {"".join(chip_svg)}
 
   <!-- right: rotating point cloud -->
