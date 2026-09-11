@@ -21,7 +21,8 @@
 
 ```python
 class Vasilis(SoftwareEngineer):
-    based_in   = "Poland"
+    from_      = "Greece 🇬🇷"
+    based_in   = "Poland 🇵🇱"
     past_life  = "Mining & construction engineer ⛏️"
     day_job    = "Backend systems & SaaS integrations"
     side_quest = "AEROMINE: drones, point clouds & 3D digital twins 🛰️"
