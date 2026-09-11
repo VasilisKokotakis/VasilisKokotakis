@@ -43,12 +43,21 @@ class Vasilis(SoftwareEngineer):
 
 ## `$ cd ~/aeromine`
 
-<a href="https://github.com/aeromineRnD"><img src="https://github.com/aeromineRnD.png?size=120" width="64" align="left" alt="AEROMINE" /></a>
+<p align="center">
+  <a href="https://github.com/aeromineRnD">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/aeromine/logo-dark.png" />
+      <img src="assets/aeromine/logo-light.png" width="84" alt="AEROMINE" />
+    </picture>
+  </a>
+</p>
 
-**R&D collaborator & developer at [AEROMINE](https://aeromine.gr)**: drone surveys turned into interactive 3D digital twins.<br />
-I build the web viewers and platforms at [@aeromineRnD](https://github.com/aeromineRnD), with **120+ commits across 10+ repos**.
+<p align="center">
+  <b>R&D collaborator & developer at <a href="https://aeromine.gr">AEROMINE</a></b>: drone surveys turned into interactive 3D digital twins.<br />
+  I build the web viewers and platforms at <a href="https://github.com/aeromineRnD">@aeromineRnD</a>, with <b>120+ commits across 10+ repos</b>.
+</p>
 
-<p>
+<p align="center">
   <a href="https://github.com/aeromineRnD"><img src="https://img.shields.io/badge/GitHub-aeromineRnD-28e6f4?style=flat-square&logo=github&labelColor=0d1117" alt="aeromineRnD on GitHub" /></a>
   <a href="https://aeromine.gr"><img src="https://img.shields.io/badge/Website-aeromine.gr-4363ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="aeromine.gr" /></a>
   <a href="https://aeromine-project-tracking-platform.vercel.app"><img src="https://img.shields.io/badge/AeroVIEW_OS-construction_tracking-e3b341?style=flat-square&labelColor=0d1117" alt="AeroVIEW OS" /></a>
