@@ -45,27 +45,20 @@ class Vasilis(SoftwareEngineer):
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🛰️ <a href="https://github.com/VasilisKokotakis/AEROMINE-TRENCH-TOOL-V2">AEROMINE Trench Tool</a></h3>
-      Desktop & web tool for 3D trench point-cloud analysis: cross-sections, wall distance and depth reports straight from LAS/LAZ files.<br /><br />
+      3D trench point-cloud analysis: cross-sections, wall distance and depth reports straight from LAS/LAZ files.<br /><br />
       <code>Python</code> <code>point clouds</code> <code>LAS/LAZ</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧊 <a href="https://github.com/VasilisKokotakis/model-viewer">model-viewer</a></h3>
-      Interactive 3D viewer for GLTF/GLB models, running in the browser.<br /><br />
-      <code>React</code> <code>Three.js</code> <code>React Three Fiber</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚨 <a href="https://github.com/VasilisKokotakis/3D-Evacuation-Plan-Aeromine-Project">3D Evacuation Plan</a></h3>
-      3D evacuation-plan visualizer built for an Aeromine patent project.<br /><br />
-      <code>TypeScript</code> <code>Three.js</code> <code>R3F</code>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🛡️ <a href="https://github.com/VasilisKokotakis/backup-monitor-api">backup-monitor-api</a></h3>
       REST API that tracks SaaS backup job statuses across multiple clients.<br /><br />
       <code>FastAPI</code> <code>PostgreSQL</code> <code>JWT</code> <code>Docker</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧊 <a href="https://github.com/VasilisKokotakis/model-viewer">model-viewer</a></h3>
+      Interactive 3D viewer for GLTF/GLB models, running in the browser.<br /><br />
+      <code>React</code> <code>Three.js</code> <code>R3F</code>
     </td>
   </tr>
 </table>
