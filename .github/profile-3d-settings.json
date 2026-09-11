@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#e6edf3",
+  "strongColor": "#28e6f4",
+  "weakColor": "#7d8590",
+  "radarColor": "#28e6f4",
+  "growingAnimation": true,
+  "contribColors": [
+    "#161b22",
+    "#0e4a5c",
+    "#1590b0",
+    "#28e6f4",
+    "#9ff8ff"
+  ],
+  "fileName": "profile-rocks-to-repos.svg"
+}
