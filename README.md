@@ -41,6 +41,34 @@ class Vasilis(SoftwareEngineer):
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode&theme=dark" alt="Tooling" />
 </p>
 
+## `$ cd ~/aeromine`
+
+<a href="https://github.com/aeromineRnD"><img src="https://github.com/aeromineRnD.png?size=120" width="64" align="left" alt="AEROMINE" /></a>
+
+**R&D collaborator & developer at [AEROMINE](https://aeromine.gr)**: drone surveys turned into interactive 3D digital twins.<br />
+I build the web viewers and platforms at [@aeromineRnD](https://github.com/aeromineRnD), with **120+ commits across 10+ repos**.
+
+<p>
+  <a href="https://github.com/aeromineRnD"><img src="https://img.shields.io/badge/GitHub-aeromineRnD-28e6f4?style=flat-square&logo=github&labelColor=0d1117" alt="aeromineRnD on GitHub" /></a>
+  <a href="https://aeromine.gr"><img src="https://img.shields.io/badge/Website-aeromine.gr-4363ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="aeromine.gr" /></a>
+  <a href="https://aeromine-project-tracking-platform.vercel.app"><img src="https://img.shields.io/badge/AeroVIEW_OS-construction_tracking-e3b341?style=flat-square&labelColor=0d1117" alt="AeroVIEW OS" /></a>
+</p>
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="https://aeromine-3d-open-pit.vercel.app"><img src="assets/aeromine/open-pit.jpg" alt="Open pit mine 3D map" /></a><br /><sub><b>⛏️ Open Pit</b> · stockpile map</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3d-wind-turbines.vercel.app"><img src="assets/aeromine/wind-farm.jpg" alt="Wind farm 3D map" /></a><br /><sub><b>🌀 Wind Farm</b> · turbine & blade condition</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3d-real-estate.vercel.app"><img src="assets/aeromine/real-estate.jpg" alt="Real estate 3D viewer" /></a><br /><sub><b>🏢 Real Estate</b> · floor-by-floor viewer</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><a href="https://aeromine-3-d-olive-trees-farm.vercel.app"><img src="assets/aeromine/olive-farm.jpg" alt="Olive farm 3D map" /></a><br /><sub><b>🫒 Olive Farm</b> · grove & materials map</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3d-mall-map.vercel.app"><img src="assets/aeromine/mall.jpg" alt="Mall 3D map" /></a><br /><sub><b>🛍️ Mall Map</b> · phased store directory</sub></td>
+    <td width="33%" align="center"><a href="https://aeromine-3d-open-office.vercel.app"><img src="assets/aeromine/open-office.jpg" alt="Open office 3D safety map" /></a><br /><sub><b>🧯 Open Office</b> · fire-safety map</sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Click any scene to open the live 3D demo. Built with Three.js and Vite on top of drone photogrammetry.</sub></p>
+
 ## `$ ls ~/projects --featured`
 
 <table>
